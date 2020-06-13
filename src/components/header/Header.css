@@ -1,0 +1,30 @@
+.navbar {
+    margin-bottom: 10px;
+}
+
+.navbar-brand{
+  transition: all 0.5s;
+}
+
+.navbar-brand:hover{
+    transform: scale(1.15);
+}
+
+nav .navbar-nav .nav-link {
+    font-family: "Chewy", cursive;
+    font-size: 1.4em;
+    color: #75a8a6 !important;
+}
+
+.fa-facebook-square,
+.fa-instagram,
+.fa-at,
+.fa-phone {
+  color: #75a8a6;
+  padding: 15px 0px 0px 7px;
+  transition: all 0.5s;
+}
+
+.fa:hover {
+  transform: scale(1.35);
+}
