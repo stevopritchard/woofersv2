@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import { Row, Col } from "react-bootstrap";
+import React, { Component } from 'react';
+import { Row, Col } from 'react-bootstrap';
 
-import "./Terms.css";
+import './Terms.css';
 
 class Terms extends Component {
   render() {
@@ -19,22 +19,24 @@ class Terms extends Component {
                   us. Whilst we understand that sometimes appointments have to
                   be cancelled in an emergency, we do ask that you give us at
                   least 24 hours notice where possible, prior to appointment
-                  cancellation, as we have a waiting list of clients. We reserve
-                  the right to charge a fee of £15 for appointments missed or
-                  cancelled with less than 24 hours notice payable prior to any
-                  future booking.
+                  cancellation, as we have a waiting list of clients.{' '}
+                  <span style={{ fontWeight: 'bold' }}>
+                    We reserve the right to charge a fee of 50% of the groom
+                    price for appointments missed or cancelled with less than 24
+                    hours notice payable prior to any future booking.
+                  </span>
                 </li>
                 <li>
-                  Arriving 30 minutes or more late for appointments will in most
+                  Arriving 15 minutes or more late for appointments will in most
                   cases require re-scheduling and a missed appointment fee of
-                  £15 will apply.
+                  50% of the groom price will apply.
                 </li>
               </ul>
               <h3>Appointment times</h3>
               <p>
                 We kindly request that you arrive at the time of your
                 appointment and pick your pet up in reasonable time as advised.
-                Once 30 minutes has elapsed after the arranged collection time a
+                Once 15 minutes has elapsed after the arranged collection time a
                 £10 charge per hour will be added to the final price unless
                 previously arranged. This is to discourage pets being left with
                 us for extended periods.

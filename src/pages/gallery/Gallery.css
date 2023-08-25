@@ -5,9 +5,21 @@
   align-items: center;
   justify-content: space-evenly;
   background-color: #efefef;
-  height: 600px;
   overflow: scroll;
   border-radius: 5px;
+  
+}
+
+/* @media (min-width: 1200px) {
+  #contGallery{
+    height: 600px;
+  }
+} */
+
+@media (max-width: 992px) {
+  #contGallery{
+    height: auto;
+  }
 }
 
 #contGallery .image-container {

@@ -18,16 +18,13 @@ const captions = [
   "The look of love 🥰 Jessie came to Woofers for just a wash and blow dry. Such a sweetie.",
   "The beautiful Skye came to Woofers for a PAWdicure but truth be told I spent most of the time giving that sweet little face kisses.",
   "The beautiful Luna who gives the best sleepy cuddles. 🌟",
-  "Hello I’m Bear 🐾 Kelly said I have the softest ears shes ever felt. ☺️",
   "Hello I’m Millie 🐾 I came to Woofers to get all dolled up for my Dog Show on Saturday. Kelly said I should get first place. 🥇",
   "The many stages of Aida’s time at Woofers...",
   "Barney, the cutest boy on the block. 😍",
-  "Hello I’m Oreo 🐾 I came to Woofers for a puppy pamper...",
   "Hello I’m Pixie 🎀 I came to Woofers for a Monday Makeover. ",
   "Hey🐾 I’m Jasper and I have the worlds cutest snaggle tooth. 🤓",
   "Amberley loves a pamper at Woofers. 🛀🏻",
   "Hello I’m Hendrix 🐾 feel I could be the next James Bond after my handstrip at Woofers. 🖤",
-  "The beautiful Willow waiting patiently to go home. 🎀💗",
   "Poppy giving a handshake after her groom.",
   "Hello I’m Coco and I’m undeniably ridiculously cute. ☺️"
 ];
